@@ -1,0 +1,99 @@
+body
+{
+    background: #2980b9;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+.container
+{
+    padding: 20px;
+    display: block;
+    margin: 0% auto;
+    width: 100%;
+    height: 100%;
+}
+.divpotho
+{
+    padding: 20px;
+    display: flex; 
+    width: 40%;
+    height: 40%;
+    margin: auto;
+    flex-wrap: wrap;
+
+    
+}
+p{
+    margin: 10px;
+}
+
+.div1
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: whitesmoke;
+
+    
+    }
+.div2potho
+{
+    padding: 30%;
+    width: 100%;
+    height: 80%;
+    display: inline-block;
+    background-image: url(https://media.istockphoto.com/id/1252455620/es/foto/golden-retriever-dog.jpg?s=1024x1024&w=is&k=20&c=V2vblqeomm4VHrzmPjNGqTTCBmJVKtJ7Y0K-O_2sbt0= );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.div3
+{
+    width: 100%;
+    text-align: left;
+    background: whitesmoke;
+
+}
+
+.div5potho
+{
+    padding: 30%;
+    width: 100%;
+    height: 80%;
+    display: inline-block;
+    background-image: url(https://media.istockphoto.com/id/1155030342/es/foto/los-viajes-de-perros-en-coche.jpg?s=1024x1024&w=is&k=20&c=L5BEh5ebKdFVHP4oxJkZCG9J2ZvKBTl3RylUIOZTe_8=);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.div8potho
+{
+    padding: 30%;
+    width: 100%;
+    height: 80%;
+    display: inline-block;
+    background-image: url(https://previews.123rf.com/images/cc0collection/cc0collection2205/cc0collection220530916/186104521-codificaci%C3%B3n-programaci%C3%B3n-trabajo-macbook-computadora-port%C3%A1til-tecnolog%C3%ADa-oficina-escritorio.jpg );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.div11potho
+{
+    padding: 30%;
+    width: 100%;
+    height: 80%;
+    display: inline-block;
+    background-image: url(https://static.eldiario.es/clip/512ea43a-99c2-42a9-b73b-645e448a7c0f_16-9-discover-aspect-ratio_default_0.webp );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
